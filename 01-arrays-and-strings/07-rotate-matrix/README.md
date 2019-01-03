@@ -1,8 +1,8 @@
 # Rotate Matrix
 
 ## Table of Contents
-1. [Rust Solution](/rs-solution/)
-2. [Javascript Solution](/js-solution/)
+1. [Rust Solution](rs-solution/)
+2. [Javascript Solution](js-solution/)
 
 ## Problem
 
