@@ -3,6 +3,7 @@
 ## Table of Contents
 1. [Arrays and Strings](01-arrays-and-strings/)
     1. [Is Unique](01-arrays-and-strings/01-is-unique/)
+    4. [Palindrome Permutation](01-arrays-and-strings/04-palindrome-permutation/)
     7. [Rotate Matrix](01-arrays-and-strings/07-rotate-matrix/)
 
 ## Solutions

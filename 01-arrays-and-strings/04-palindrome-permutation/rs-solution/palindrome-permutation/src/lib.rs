@@ -1,16 +1,16 @@
-//! # Palindrome Permutation:
-//! `palindrome_permuation` is a crate that solves problem 1.4 of Cracking the Coding Interview
-//! book.  Here's the problem:
+//# Palindrome Permutation:
+//`palindrome_permuation` is a crate that solves problem 1.4 of Cracking the Coding Interview
+//book.  Here's the problem:
 //!
-//! Given a string, write a function to check if it is a permutation of a palindrome.
-//! A palindrome is a word or phrase that is the same forwards and backwards. A permutation
-//! is a rearrangement of letters. The palindrome does not need to be limited to just dictionary
-//! words.
+//Given a string, write a function to check if it is a permutation of a palindrome.
+//A palindrome is a word or phrase that is the same forwards and backwards. A permutation
+//is a rearrangement of letters. The palindrome does not need to be limited to just dictionary
+//words.
 //!
-//! # Example
-//! **Input:** Tact Coa
+//# Example
+//**Input:** Tact Coa
 //!
-//! **Output:** True (permutations: "taco cat", "atco cta", etc.)
+//**Output:** True (permutations: "taco cat", "atco cta", etc.)
 
 use std::collections::HashMap;
 
